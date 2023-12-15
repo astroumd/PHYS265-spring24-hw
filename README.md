@@ -1,6 +1,6 @@
 # PHYS265-spring24-hw
 
-<template for> homework submission of PHYS265-spring24 for <your_name>
+<template for> homework submissions of PHYS265-spring24 for <your_name>
 
 1. Fork this repo into your own github account
 2. Change visibility from *public* to *private*   (See Settings -> Danger Zone -> change visibility)
